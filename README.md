@@ -1,4 +1,4 @@
-lab4
+Room Mates
 ====
 
-Lab 4: Programming with Javascript
+Household management for real people
